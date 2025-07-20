@@ -4,7 +4,6 @@ This QA testing project simulates **user journeys and validation flows** using *
 - ✅ Account registration & login
 - ✅ Form validation (empty fields, invalid inputs)
 - ✅ Password mismatch and duplicate email handling
-- ✅ Product navigation and category filtering
 - ✅ Add to cart and success message verification
 
 ##  Project Structure
